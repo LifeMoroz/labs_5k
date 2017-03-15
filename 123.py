@@ -1,5 +1,4 @@
 import cProfile
-import io
 from math import sqrt
 from random import random
 from random import sample, choice
